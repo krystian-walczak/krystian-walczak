@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krystian-walczak
 - 👀 I’m interested in programming, games, movies
-- 🌱 I’m currently learning MySQL, Python, Java
+- 🌱 I’m currently learning MySQL, Python, Java, UiPath, VB.NET
 - 📫 krystian.walczak94@gmail.com
 
 <!---
